@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1201215530 e:\jens\info\my programs\c-c++\cassebrique\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constants.h"
+	"functions.h"
+
+1202345416 e:\jens\info\my programs\c-c++\cassebrique\constants.h
+
+1202769853 e:\jens\info\my programs\c-c++\cassebrique\functions.h
+
+1207259196 e:\jens\info\my programs\c-c++\cassebrique\functions.cpp
+	<iostream>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constants.h"
+	"functions.h"
+
